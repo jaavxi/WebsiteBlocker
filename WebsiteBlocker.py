@@ -11,7 +11,7 @@ redirect = "127.0.0.1"
 # websites That you want to block 
 website_list = 
 ["www.facebook.com","facebook.com", 
-      "dub119.mail.live.com","www.dub119.mail.live.com", 
+      "instagram.com","www.instagram.com", 
       "www.gmail.com","gmail.com"] 
   
 while True: 
